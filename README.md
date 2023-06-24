@@ -2,12 +2,12 @@
 Simple Weather application created using AccuWeather API call and GitHub Copilot
 
 ## Table of Contents
-
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
+- [Architecture Diagram](#architecturediagram)
+- [Ask questions to your documents, locally!](#Askquestionstoyourdocuments,locally!)
+- [Output Screenshot](#outputscreenshot)
+  
 
 ## Installation
 In order to set your environment up to run the code here, first install all requirements:
@@ -15,13 +15,10 @@ In order to set your environment up to run the code here, first install all requ
 pip3 install -r requirements.txt
 
 ## Usage
-
-Provide instructions on how to use the project or any relevant usage examples.
+If you want collect all the forecast and present weather updates. Not only that it will also present only the cloudy forecast.
 
 ## Architecture Diagram
-
-![WhatsApp Image 2023-06-24 at 4 00 07 PM](https://github.com/vamsy1993/AccuWeatherHackthone/assets/49802898/9a45f5ed-c2ef-48ff-8728-7a22c8cb3d22)
-
+[WhatsApp Image 2023-06-24 at 4 31 28 PM](https://github.com/vamsy1993/AccuWeatherHackthone/assets/49802898/b112a24d-2faa-4b56-a7ee-502f020cbe0c)
 
 ## Ask questions to your documents, locally!
 In order to ask a question, run a command like:
@@ -34,7 +31,12 @@ Hit enter. You'll need to wait 2-5 seconds; you can then ask another city withou
 
 Type exit to finish the script
 
-## Contact
+## Output Screenshot
+![hackthon_Feature_output](https://github.com/vamsy1993/AccuWeatherHackthone/assets/49802898/4cbe32fb-174d-4923-8a4d-ce6a53242116)
+![Screenshot 2023-06-24 164345](https://github.com/vamsy1993/AccuWeatherHackthone/assets/49802898/75ff879a-dc99-4c34-833a-e7455bf870a4)
 
-Provide your contact information (such as email or social media handles) for users to reach out to you regarding the project.
+## Contact
+vootukuruvamsy@gmail.com 
+paviraj057@gmail.com!
+
 
