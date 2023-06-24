@@ -18,7 +18,8 @@ pip3 install -r requirements.txt
 If you want collect all the forecast and present weather updates. Not only that it will also present only the cloudy forecast.
 
 ## Architecture Diagram
-[WhatsApp Image 2023-06-24 at 4 31 28 PM](https://github.com/vamsy1993/AccuWeatherHackthone/assets/49802898/b112a24d-2faa-4b56-a7ee-502f020cbe0c)
+![Arichtecture](https://github.com/vamsy1993/AccuWeatherHackthone/assets/49802898/400930e5-dda9-4e0a-b322-2bb22eb7a0c1)
+
 
 ## Ask questions to your documents, locally!
 In order to ask a question, run a command like:
